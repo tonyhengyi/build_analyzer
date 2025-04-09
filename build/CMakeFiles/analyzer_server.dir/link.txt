@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/analyzer_server.dir/src/main.cpp.o CMakeFiles/analyzer_server.dir/src/auth.cpp.o CMakeFiles/analyzer_server.dir/src/router.cpp.o -o analyzer_server  /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libsqlite3.so 

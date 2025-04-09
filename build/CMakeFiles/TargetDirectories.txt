@@ -1,0 +1,3 @@
+/home/zhy_clound/build_analyzer/server/build/CMakeFiles/login_server.dir
+/home/zhy_clound/build_analyzer/server/build/CMakeFiles/edit_cache.dir
+/home/zhy_clound/build_analyzer/server/build/CMakeFiles/rebuild_cache.dir

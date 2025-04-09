@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/login_server.dir/src/main.cpp.o CMakeFiles/login_server.dir/src/auth.cpp.o CMakeFiles/login_server.dir/src/router.cpp.o -o login_server 
